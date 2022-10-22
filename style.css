@@ -1,0 +1,21 @@
+body {
+    background-color: #e5e5e5;
+}
+
+.container-top {
+    margin: 50px;
+}
+
+h1 {
+    text-align: center;
+    color: #58727f;
+}
+
+.button {
+    text-align: center;
+}
+
+.container-main {
+    text-align: center;
+    margin-top: 50px;
+}
